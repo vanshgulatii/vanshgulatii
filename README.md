@@ -1,42 +1,57 @@
 # Hi, I'm Vansh 👋
 
-🎓 Master's Student in Digital Engineering @ Bauhaus University Weimar  
-🤖 Interested in Artificial Intelligence, Machine Learning & Computer Vision  
-🚀 Passionate about building real-world, data-driven systems  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+Enthusiast;Digital+Engineering+Student;Building+Real-World+AI+Projects;Open+to+Werkstudent+Opportunities" />
+</p>
 
 ---
 
 ## 🧠 About Me
-- 📊 Strong interest in Machine Learning & AI applications  
+- 🎓 Master's in Digital Engineering @ Bauhaus University Weimar  
+- 🤖 Interested in AI, Machine Learning & Computer Vision  
 - 🚗 Working on mobility systems (self-driving bus research)  
-- 🧪 Published researcher in engineering & materials  
-- 🌍 Based in Germany, open to AI/ML opportunities  
+- 🧪 Published researcher  
+- 🌍 Based in Germany  
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:**  
-Python, JavaScript, SQL  
 
-**Libraries & Frameworks:**  
-NumPy, Pandas, Scikit-learn, PyTorch  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,sql,git,vscode" />
+</p>
 
-**Tools:**  
-Git, Jupyter Notebook, VS Code  
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshgulati16&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgulati16&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔍 AI Resume Analyzer
-- Built using Python and ML techniques  
-- Performs text analysis and extracts structured insights  
+- Python-based ML project for resume analysis  
 
 ### ✍️ Typo Defence
-- JavaScript tool for typo detection and correction  
+- JavaScript tool for typo detection  
 
 ### 🌐 Portfolio Website
-- Personal website showcasing projects and skills  
+- Personal website to showcase projects  
 
 ---
 
@@ -46,4 +61,8 @@ Git, Jupyter Notebook, VS Code
 
 ---
 
-⭐ *Currently building more projects in AI, Computer Vision & NLP*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanshgulati16&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+⭐ *Currently building projects in AI, Computer Vision & NLP*
