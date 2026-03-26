@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Vansh 👋
 
-<!--
-**vanshgulatii/vanshgulatii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Digital Engineering @ Bauhaus University Weimar  
+🤖 Interested in Artificial Intelligence, Machine Learning & Computer Vision  
+🚀 Passionate about building real-world, data-driven systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 📊 Strong interest in Machine Learning & AI applications  
+- 🚗 Working on mobility systems (self-driving bus research)  
+- 🧪 Published researcher in engineering & materials  
+- 🌍 Based in Germany, open to AI/ML opportunities  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+Python, JavaScript, SQL  
+
+**Libraries & Frameworks:**  
+NumPy, Pandas, Scikit-learn, PyTorch  
+
+**Tools:**  
+Git, Jupyter Notebook, VS Code  
+
+---
+
+## 📌 Featured Projects
+
+### 🔍 AI Resume Analyzer
+- Built using Python and ML techniques  
+- Performs text analysis and extracts structured insights  
+
+### ✍️ Typo Defence
+- JavaScript tool for typo detection and correction  
+
+### 🌐 Portfolio Website
+- Personal website showcasing projects and skills  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/vansh-g-31a607197  
+- Email: vanshg121@yahoo.com  
+
+---
+
+⭐ *Currently building more projects in AI, Computer Vision & NLP*
