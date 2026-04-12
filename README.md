@@ -1,4 +1,31 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vansh%20Gulati&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Machine+Learning;Digital+Engineering+%40+Bauhaus+Weimar;AI+Agents+%7C+Mobility+Systems;Building+Autonomous+Solutions;Turning+Data+into+Intelligence" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vansh-g-31a607197">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:vanshg121@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## ⚡ SYSTEM PROFILE
+
+```diff
++ Name: Vansh Gulati
++ Role: AI / ML Engineer (in progress)
++ Location: Germany 🇩🇪
++ University: Bauhaus University Weimar
++ Focus: AI Agents | Machine Learning | Mobility Systems
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:111827&height=170&section=header&text=Vansh%20Gulati&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
