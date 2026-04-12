@@ -1,4 +1,17 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5A0,25:00D9F5,50:4F46E5,75:9333EA,100:F43F5E&height=220&section=header&text=Vansh%20Gulati&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=800&color=00F5A0&center=true&vCenter=true&width=750&lines=%3E+Initializing+AI+Profile...;%3E+Loading+Machine+Learning+Models...;%3E+Deploying+AI+Agents...;%3E+Building+Autonomous+Systems...;%3E+Ready." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-00F5A0?style=for-the-badge&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science-00D9F5?style=for-the-badge&logo=python&logoColor=black"/>
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=150&section=header&text=Vansh%20Gulati&fontSize=40&fontColor=ffffff"/>
 </p>
 
