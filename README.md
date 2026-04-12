@@ -10,10 +10,7 @@
   <img src="https://img.shields.io/badge/AI-00F5A0?style=for-the-badge&logo=openai&logoColor=black"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Science-00D9F5?style=for-the-badge&logo=python&logoColor=black"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=150&section=header&text=Vansh%20Gulati&fontSize=40&fontColor=ffffff"/>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%7C+Machine+Learning;Digital+Engineering+%40+Bauhaus+Weimar;AI+Agents+%7C+Mobility+Systems;Building+Real-World+Intelligent+Systems" />
