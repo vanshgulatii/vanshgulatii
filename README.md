@@ -12,30 +12,17 @@
   <img src="https://img.shields.io/badge/Data%20Science-00D9F5?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=K%C3%BCnstliche+Intelligenz+%7C+Machine+Learning;Digital+Engineering+%40+Bauhaus+Weimar;AI-Agenten+%7C+Mobilit%C3%A4tssysteme;Entwicklung+intelligenter+Systeme+mit+Praxisbezug" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vansh-g-31a607197">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vanshg121@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 🧠 Über mich
 
-Masterstudent im Bereich **Digital Engineering** an der **Bauhaus-Universität Weimar 🇩🇪** mit Schwerpunkt auf  
-**Künstlicher Intelligenz, Machine Learning und datengetriebenen Systemen**.
+Masterstudent im Bereich **Digital Engineering** an der **Bauhaus-Universität Weimar 🇩🇪** mit Fokus auf  
+**Künstliche Intelligenz, Machine Learning und agentenbasierte Systeme**.
 
-- 🎯 Platzierung unter den **Top 10–12 % im Bereich Machine Learning**
-- 🤖 Entwicklung von **KI-gestützten Systemen für reale Anwendungen**
-- 🚍 Fokus auf **intelligente Mobilität und autonome Systeme**
-- 🔍 Interesse an **AI-Agenten, Automatisierung und angewandtem Machine Learning**
+- 🎯 Top 10–12 % im Bereich Machine Learning  
+- 🤖 Entwicklung von **AI-Agenten & intelligenten Systemen**
+- 🚍 Fokus auf **Mobilität, autonome Systeme und reale Anwendungen**
+- 🔍 Interesse an **LLMs, Automatisierung und Systemarchitektur**
 
 ---
 
@@ -44,48 +31,88 @@ Masterstudent im Bereich **Digital Engineering** an der **Bauhaus-Universität W
 ### 🛰️ Wissenschaftliche Hilfskraft (HiWi) — Mobilität & Transport  
 **Bauhaus-Universität Weimar | Apr 2026 – heute**
 
-- Entwicklung von Komponenten für ein **autonomes Bussystem**
-- Einsatz von **Machine Learning zur Analyse und Optimierung von Mobilitätsdaten**
-- Arbeit mit **realen Verkehrsdaten**
-- Unterstützung bei der Entwicklung von **datengetriebenen Modellen und digitalen Zwillingen**
-- **Datenvorverarbeitung und Visualisierung mit Python**
-- Mitarbeit an **V2X (vernetzte Fahrzeugsysteme)**
+- Entwicklung eines **autonomen Bussystems**
+- Einsatz von Machine Learning zur **Mobilitätsanalyse und Optimierung**
+- Verarbeitung **realer Verkehrsdaten**
+- Unterstützung bei **datengetriebenen Modellen und digitalen Zwillingen**
+- Datenanalyse & Visualisierung (Python)
+- Forschung zu **V2X (vernetzte Fahrzeuge)**
 
 ---
 
 ## 🤖 Projekte
 
-### ⚙️ AI-Agentensystem — Automatisierte Venue-Buchung  
-*spaces360, Jena (Industriekooperation)*
+### ⚙️ AI Agents Meet the Venue — webMCP-basierte Kommunikation  
+*spaces360, Jena (Industrieprojekt)*
 
-- Entwicklung eines **LLM-basierten AI-Agentensystems**
-- 🧩 Tech-Stack: Python (Flask) • JavaScript • APIs  
-- ⚡ Funktionen:
-  - Verfügbarkeitsprüfung  
-  - Datenextraktion  
-  - Automatisierte Angebotserstellung  
-- 🔄 Pipeline: **Nutzeranfrage → AI-Agent → Strukturierte Ausgabe**
+- Entwicklung eines **AI-Agent-Systems zur direkten Interaktion mit Webseiten**
+- Nutzung von **webMCP (Web Model Context Protocol)** zur strukturierten Kommunikation zwischen AI-Agenten und Websites :contentReference[oaicite:0]{index=0}  
+- Ziel: **Agent-ready Websites** für automatisierte Interaktionen ohne manuelle Prozesse  
+
+⚡ Funktionen:
+- Abfrage von **Verfügbarkeiten von Event-Locations**
+- Extraktion von **Raumdaten, Kapazitäten und Preisen**
+- Automatisierte **Angebotsanfragen (Quotes)**
+- End-to-End Workflow:  
+  **User → AI-Agent → Website → Strukturierte Antwort**
+
+🧠 Technischer Fokus:
+- Declarative & Imperative APIs (webMCP)
+- Integration von **LLM-basierten Agenten**
+- Datenmodellierung (Verfügbarkeit, Räume, Preise)
+- Sicherheit & Authentifizierung für Agent-Systeme
+
+🚀 Ergebnis:
+- Prototyp eines **webMCP-fähigen Systems**
+- Demonstration eines vollständigen **Agent-Workflows**
 
 ---
 
-### 🚀 Startup-Konzept — „Relief“ (Europreneur Challenge)
+### ⚙️ AI Resume Analyzer — NLP-basierte Resume-Analyse
 
-- Teilnahme an einer **internationalen Startup-Challenge**
-- Entwicklung und Prototyp eines **digitalen Produkts**
-- Zusammenarbeit in einem **interdisziplinären Team**
-- Präsentation eines **funktionsfähigen Produktkonzepts**
+- Entwicklung einer Full-Stack Web-App zur **Analyse von Lebensläufen**
+- NLP-basierter Vergleich (TF-IDF + Cosine Similarity)
+- Berechnung eines **Match Scores**
+- **Skill-Gap Analyse & Empfehlungen**
+
+🌐 Live:
+- Frontend: https://ai-resume-analyzer-vansh-gulati.streamlit.app/  
+- Backend: https://ai-resume-analyzer-6ojk.onrender.com/docs  
+
+🧩 Tech Stack:
+- FastAPI, Streamlit  
+- Scikit-learn, Pandas  
+- PDFPlumber  
+
+---
+
+### 🚀 Startup-Konzept — „Relief“
+
+- Teilnahme an internationaler Startup-Challenge  
+- Entwicklung eines digitalen Produkts  
+- Präsentation eines funktionsfähigen Konzepts  
 
 ---
 
 ## 🧪 Publikationen
 
-### 📄 Schmieröl mit Graphit-Zusätzen (AIP, 2025)
-- Verbesserung der tribologischen Eigenschaften  
-- Reduzierung von Reibung und Verschleiß  
+### 📄 15W40 Schmieröl mit Graphit-Zusätzen  
+**AIP Conference Proceedings, 2025**
 
-### 📄 Aluminium-Verbundwerkstoff mit Flugasche (2024)
-- Entwicklung nachhaltiger Materialien  
-- Fokus auf Herstellung und Performance  
+- Koautor einer Forschungsarbeit zur **Verbesserung tribologischer Eigenschaften von Schmierstoffen**  
+- Durchführung von **experimentellen Analysen mit Tribometer-Systemen**  
+- Nachweis von **reduzierter Reibung und verbessertem Verschleißverhalten**  
+- Fokus auf **Materialoptimierung für industrielle Anwendungen**  
+
+---
+
+### 📄 Herstellung und Test von Aluminium-Verbundwerkstoffen mit Flugasche  
+**Iterative International Publishers (IIP), 2024**
+
+- Entwicklung von **nachhaltigen Aluminium-Verbundmaterialien mit Flugasche**  
+- Durchführung von **Fertigungs- und Testverfahren zur Leistungsbewertung**  
+- Analyse mechanischer Eigenschaften und Materialverhalten  
+- Beitrag zu **ressourceneffizienten Werkstofflösungen**  
 
 ---
 
@@ -93,13 +120,6 @@ Masterstudent im Bereich **Digital Engineering** an der **Bauhaus-Universität W
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,sql,pytorch,git,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-111827?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-111827?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-111827?style=flat&logo=pytorch&logoColor=white"/>
 </p>
 
 ---
@@ -114,12 +134,12 @@ Masterstudent im Bereich **Digital Engineering** an der **Bauhaus-Universität W
 
 ## 🌍 Sprachen
 
-- 🇬🇧 Englisch — Fließend  
-- 🇩🇪 Deutsch — B1–B2 (konversationssicher)  
-- 🇮🇳 Hindi — Muttersprache  
+- Englisch — Fließend  
+- Deutsch — B2  
+- Hindi — Muttersprache  
 
 ---
 
 <p align="center">
-  <i>Entwicklung intelligenter Systeme mit realem Mehrwert.</i>
+  <i>Entwicklung intelligenter, agentenbasierter Systeme mit realem Mehrwert.</i>
 </p>
