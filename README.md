@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=800&color=00F5A0&center=true&vCenter=true&width=750&lines=%3E+Initialisiere+AI-Profil...;%3E+Lade+Machine-Learning-Modelle...;%3E+Starte+AI-Agenten...;%3E+Baue+autonome+Systeme...;%3E+Bereit." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=800&color=00F5A0&center=true&vCenter=true&width=750&lines=%3E+Initialisiere+AI-Profil...;%3E+Lade+Machine-Learning-Modelle...;%3E+Starte+AI-Agenten...;%3E+Entwickle+autonome+Systeme...;%3E+Bereit." />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=K%C3%BCnstliche+Intelligenz+%7C+Machine+Learning;Digital+Engineering+%40+Bauhaus+Weimar;AI-Agenten+%7C+Mobilit%C3%A4tssysteme;Entwicklung+intelligenter+Systeme+f%C3%BCr+die+Praxis" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=K%C3%BCnstliche+Intelligenz+%7C+Machine+Learning;Digital+Engineering+%40+Bauhaus+Weimar;AI-Agenten+%7C+Mobilit%C3%A4tssysteme;Entwicklung+intelligenter+Systeme+mit+Praxisbezug" />
 </p>
 
 <p align="center">
@@ -29,27 +29,27 @@
 
 ## 🧠 Über mich
 
-Masterstudent im Bereich **Digital Engineering** an der **Bauhaus-Universität Weimar 🇩🇪**, mit Fokus auf  
-**Künstliche Intelligenz, Machine Learning und datengetriebene Systeme**.
+Masterstudent im Bereich **Digital Engineering** an der **Bauhaus-Universität Weimar 🇩🇪** mit Schwerpunkt auf  
+**Künstlicher Intelligenz, Machine Learning und datengetriebenen Systemen**.
 
-- 🎯 Unter den **Top 10–12 % im Bereich Machine Learning**
+- 🎯 Platzierung unter den **Top 10–12 % im Bereich Machine Learning**
 - 🤖 Entwicklung von **KI-gestützten Systemen für reale Anwendungen**
-- 🚍 Arbeit an **intelligenten Mobilitäts- und autonomen Systemen**
-- 🔍 Interesse an **AI-Agenten, Automatisierung und angewandtem ML**
+- 🚍 Fokus auf **intelligente Mobilität und autonome Systeme**
+- 🔍 Interesse an **AI-Agenten, Automatisierung und angewandtem Machine Learning**
 
 ---
 
 ## 🚀 Erfahrung
 
-### 🛰️ Studentische Hilfskraft (HiWi) — Mobilität & Transport  
-**Bauhaus-Universität Weimar | Apr 2026 – Heute**
+### 🛰️ Wissenschaftliche Hilfskraft (HiWi) — Mobilität & Transport  
+**Bauhaus-Universität Weimar | Apr 2026 – heute**
 
-- Entwicklung von Komponenten für ein **selbstfahrendes Bussystem**
-- Einsatz von **Machine Learning zur Mobilitätsanalyse und -optimierung**
+- Entwicklung von Komponenten für ein **autonomes Bussystem**
+- Einsatz von **Machine Learning zur Analyse und Optimierung von Mobilitätsdaten**
 - Arbeit mit **realen Verkehrsdaten**
-- Unterstützung von **datengetriebenen Modellen und digitalen Zwillingen**
-- **Datenvorverarbeitung und Visualisierung (Python)**
-- Mitarbeit an **V2X (vernetzte Fahrzeugsysteme) Forschung**
+- Unterstützung bei der Entwicklung von **datengetriebenen Modellen und digitalen Zwillingen**
+- **Datenvorverarbeitung und Visualisierung mit Python**
+- Mitarbeit an **V2X (vernetzte Fahrzeugsysteme)**
 
 ---
 
@@ -63,17 +63,17 @@ Masterstudent im Bereich **Digital Engineering** an der **Bauhaus-Universität W
 - ⚡ Funktionen:
   - Verfügbarkeitsprüfung  
   - Datenextraktion  
-  - Automatische Angebotserstellung  
-- 🔄 End-to-End-Pipeline: **Nutzeranfrage → AI-Agent → Strukturierte Ausgabe**
+  - Automatisierte Angebotserstellung  
+- 🔄 Pipeline: **Nutzeranfrage → AI-Agent → Strukturierte Ausgabe**
 
 ---
 
 ### 🚀 Startup-Konzept — „Relief“ (Europreneur Challenge)
 
-- Auswahl für eine **internationale Startup-Challenge**
+- Teilnahme an einer **internationalen Startup-Challenge**
 - Entwicklung und Prototyp eines **digitalen Produkts**
 - Zusammenarbeit in einem **interdisziplinären Team**
-- Präsentation des finalen **Produkt-Pitches**
+- Präsentation eines **funktionsfähigen Produktkonzepts**
 
 ---
 
@@ -84,7 +84,7 @@ Masterstudent im Bereich **Digital Engineering** an der **Bauhaus-Universität W
 - Reduzierung von Reibung und Verschleiß  
 
 ### 📄 Aluminium-Verbundwerkstoff mit Flugasche (2024)
-- Entwicklung nachhaltiger Verbundmaterialien  
+- Entwicklung nachhaltiger Materialien  
 - Fokus auf Herstellung und Performance  
 
 ---
@@ -115,11 +115,11 @@ Masterstudent im Bereich **Digital Engineering** an der **Bauhaus-Universität W
 ## 🌍 Sprachen
 
 - 🇬🇧 Englisch — Fließend  
-- 🇩🇪 Deutsch — Mittelstufe  
+- 🇩🇪 Deutsch — B1–B2 (konversationssicher)  
 - 🇮🇳 Hindi — Muttersprache  
 
 ---
 
 <p align="center">
-  <i>Ich entwickle intelligente Systeme mit realem Mehrwert.</i>
+  <i>Entwicklung intelligenter Systeme mit realem Mehrwert.</i>
 </p>
