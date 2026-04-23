@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=800&color=00F5A0&center=true&vCenter=true&width=750&lines=%3E+Initializing+AI+Profile...;%3E+Loading+Machine+Learning+Models...;%3E+Deploying+AI+Agents...;%3E+Building+Autonomous+Systems...;%3E+Ready." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=800&color=00F5A0&center=true&vCenter=true&width=750&lines=%3E+Initialisiere+AI-Profil...;%3E+Lade+Machine-Learning-Modelle...;%3E+Starte+AI-Agenten...;%3E+Baue+autonome+Systeme...;%3E+Bereit." />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-00F5A0?style=for-the-badge&logo=openai&logoColor=black"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Science-00D9F5?style=for-the-badge&logo=python&logoColor=black"/>
-
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%7C+Machine+Learning;Digital+Engineering+%40+Bauhaus+Weimar;AI+Agents+%7C+Mobility+Systems;Building+Real-World+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=K%C3%BCnstliche+Intelligenz+%7C+Machine+Learning;Digital+Engineering+%40+Bauhaus+Weimar;AI-Agenten+%7C+Mobilit%C3%A4tssysteme;Entwicklung+intelligenter+Systeme+f%C3%BCr+die+Praxis" />
 </p>
 
 <p align="center">
@@ -27,65 +27,65 @@
 
 ---
 
-## 🧠 About
+## 🧠 Über mich
 
-Master’s student in **Digital Engineering** at **Bauhaus University Weimar 🇩🇪**, focused on  
-**Artificial Intelligence, Machine Learning, and Data-Driven Systems**.
+Masterstudent im Bereich **Digital Engineering** an der **Bauhaus-Universität Weimar 🇩🇪**, mit Fokus auf  
+**Künstliche Intelligenz, Machine Learning und datengetriebene Systeme**.
 
-- 🎯 Ranked among the **top 10–12% in Machine Learning**
-- 🤖 Building **AI-powered systems for real-world applications**
-- 🚍 Working on **intelligent mobility & self-driving systems**
-- 🔍 Interested in **AI Agents, Automation, and Applied ML**
-
----
-
-## 🚀 Experience
-
-### 🛰️ Student Assistant (HiWi) — Mobility & Transport  
-**Bauhaus University Weimar | Apr 2026 – Present**
-
-- Developing components for a **self-driving bus system**
-- Applying **machine learning for mobility analysis & optimization**
-- Working with **real-world transportation datasets**
-- Supporting **data-driven models and digital twins**
-- Performing **data preprocessing & visualization (Python)**
-- Contributing to **V2X (connected vehicle systems)** research
+- 🎯 Unter den **Top 10–12 % im Bereich Machine Learning**
+- 🤖 Entwicklung von **KI-gestützten Systemen für reale Anwendungen**
+- 🚍 Arbeit an **intelligenten Mobilitäts- und autonomen Systemen**
+- 🔍 Interesse an **AI-Agenten, Automatisierung und angewandtem ML**
 
 ---
 
-## 🤖 Projects
+## 🚀 Erfahrung
 
-### ⚙️ AI Agent System — Automated Venue Booking  
-*spaces360, Jena (Industry Collaboration)*
+### 🛰️ Studentische Hilfskraft (HiWi) — Mobilität & Transport  
+**Bauhaus-Universität Weimar | Apr 2026 – Heute**
 
-- Built an **LLM-powered AI agent system**
-- 🧩 Stack: Python (Flask) • JavaScript • APIs  
-- ⚡ Features:
-  - Availability detection  
-  - Data extraction  
-  - Automated quote generation  
-- 🔄 End-to-end pipeline: **User Query → AI Agent → Structured Output**
-
----
-
-### 🚀 Startup Concept — “Relief” (Europreneur Challenge)
-
-- Selected for an **international startup challenge**
-- Built and prototyped a **digital product**
-- Collaborated in an **interdisciplinary team**
-- Delivered final **product pitch**
+- Entwicklung von Komponenten für ein **selbstfahrendes Bussystem**
+- Einsatz von **Machine Learning zur Mobilitätsanalyse und -optimierung**
+- Arbeit mit **realen Verkehrsdaten**
+- Unterstützung von **datengetriebenen Modellen und digitalen Zwillingen**
+- **Datenvorverarbeitung und Visualisierung (Python)**
+- Mitarbeit an **V2X (vernetzte Fahrzeugsysteme) Forschung**
 
 ---
 
-## 🧪 Publications
+## 🤖 Projekte
 
-### 📄 Lubricating Oil with Graphite Additives (AIP, 2025)
-- Improved tribological performance  
-- Reduced friction and wear  
+### ⚙️ AI-Agentensystem — Automatisierte Venue-Buchung  
+*spaces360, Jena (Industriekooperation)*
 
-### 📄 Aluminium Composite with Flyash (2024)
-- Developed sustainable composite materials  
-- Focused on fabrication and performance  
+- Entwicklung eines **LLM-basierten AI-Agentensystems**
+- 🧩 Tech-Stack: Python (Flask) • JavaScript • APIs  
+- ⚡ Funktionen:
+  - Verfügbarkeitsprüfung  
+  - Datenextraktion  
+  - Automatische Angebotserstellung  
+- 🔄 End-to-End-Pipeline: **Nutzeranfrage → AI-Agent → Strukturierte Ausgabe**
+
+---
+
+### 🚀 Startup-Konzept — „Relief“ (Europreneur Challenge)
+
+- Auswahl für eine **internationale Startup-Challenge**
+- Entwicklung und Prototyp eines **digitalen Produkts**
+- Zusammenarbeit in einem **interdisziplinären Team**
+- Präsentation des finalen **Produkt-Pitches**
+
+---
+
+## 🧪 Publikationen
+
+### 📄 Schmieröl mit Graphit-Zusätzen (AIP, 2025)
+- Verbesserung der tribologischen Eigenschaften  
+- Reduzierung von Reibung und Verschleiß  
+
+### 📄 Aluminium-Verbundwerkstoff mit Flugasche (2024)
+- Entwicklung nachhaltiger Verbundmaterialien  
+- Fokus auf Herstellung und Performance  
 
 ---
 
@@ -104,24 +104,22 @@ Master’s student in **Digital Engineering** at **Bauhaus University Weimar �
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistiken
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanshgulatii&show_icons=true&theme=github_dark&hide_border=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=vanshgulatii&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🌍 Languages
+## 🌍 Sprachen
 
-- 🇬🇧 English — Fluent  
-- 🇩🇪 German — Conversational  
-- 🇮🇳 Hindi — Native  
+- 🇬🇧 Englisch — Fließend  
+- 🇩🇪 Deutsch — Mittelstufe  
+- 🇮🇳 Hindi — Muttersprache  
 
 ---
 
 <p align="center">
-  <i>Building intelligent systems with real-world impact.</i>
+  <i>Ich entwickle intelligente Systeme mit realem Mehrwert.</i>
 </p>
